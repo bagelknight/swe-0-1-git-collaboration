@@ -14,3 +14,5 @@ print("Democraatic votes so i can corrupt the white community...")
 
 print("THEN DONALD TRUMPP JUMPED THROUGH THE WALL, YELLING "ZOOEY MAMA" AND HE PRESSED A BUTTON THAT...")
 print("Wait did I do something wrong?")
+
+print("Why can't you see me raahhhh")
