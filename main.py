@@ -9,3 +9,5 @@ print("Joe Biden was on a hill, and he was...")
 print("sleeping so peaceful till..")
 
 print("BARACK OBAMA CAME FROM THE SKIES YELLING 'WHERE IS MY...'")
+
+print("Democraatic votes so i can corrupt the white community...")
