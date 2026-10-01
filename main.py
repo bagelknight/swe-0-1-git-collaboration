@@ -16,3 +16,5 @@ print("THEN DONALD TRUMPP JUMPED THROUGH THE WALL, YELLING "ZOOEY MAMA" AND HE P
 print("summons a bunch of organge dust to change the hair..")
 
 print("and grew Barack Obama an afro so he was no longer bald :( then suddenly—Joe Biden...")
+
+print("turns obama hair into a nest to rest..")
