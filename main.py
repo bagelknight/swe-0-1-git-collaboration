@@ -18,3 +18,5 @@ print("summons a bunch of organge dust to change the hair..")
 print("and grew Barack Obama an afro so he was no longer bald :( then suddenly—Joe Biden...")
 
 print("turns obama hair into a nest to rest..")
+
+print("Joe Biden proclaims himself to be the Emperor of the US but then Donald Trump..." )
