@@ -14,3 +14,5 @@ print("Democraatic votes so i can corrupt the white community...")
 print("THEN DONALD TRUMPP JUMPED THROUGH THE WALL, YELLING "ZOOEY MAMA" AND HE PRESSED A BUTTON THAT...")
 
 print("summons a bunch of organge dust to change the hair..")
+
+print("and grew Barack Obama an afro so he was no longer bald :( then suddenly—Joe Biden...")
