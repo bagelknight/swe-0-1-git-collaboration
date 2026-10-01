@@ -1,1 +1,1 @@
-# Code your solutions in this file
+print("written Diddyblud 1 Diddyblud 2")
