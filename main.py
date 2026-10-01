@@ -11,6 +11,9 @@ print("sleeping so peaceful till..")
 print("BARACK OBAMA CAME FROM THE SKIES YELLING 'WHERE IS MY...'")
 
 print("Democraatic votes so i can corrupt the white community...")
+<<<<<<< Updated upstream
 
 print("THEN DONALD TRUMPP JUMPED THROUGH THE WALL, YELLING "ZOOEY MAMA" AND HE PRESSED A BUTTON THAT...")
 print("Wait did I do something wrong?")
+=======
+>>>>>>> Stashed changes
